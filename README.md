@@ -1,7 +1,6 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <link rel="stylesheet" href="css/styles.css?v=1.0">
 </head>
 
 <body>
